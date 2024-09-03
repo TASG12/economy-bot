@@ -1,0 +1,14 @@
+1) npm init
+2) npm install discord.js
+3) npm install dotenv
+4) npm install eslint
+5) npm install mongoose
+6) npm install parse-ms-2
+7) setup mongodb database and put in .env
+8) setup token
+9) get into server and setup guild id (server id) and client id (bot user id)
+10) node deploy-commands.js
+11) node .
+
+**make sure nodejs and npm is installed (sudo apt install nodejs npm)**
+

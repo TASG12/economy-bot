@@ -1,0 +1,7 @@
+{
+    "dailyMin": 1,
+    "dailyMax": 100,
+    "coinflipReward": 25,
+    "hourlyMin": 1,
+    "hourlyMax": 10
+}

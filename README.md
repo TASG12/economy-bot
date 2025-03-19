@@ -10,3 +10,6 @@ An economy bot for Discord!
 6) Get your bot into a server and get the server id and client id.
 7) Run `node deploy-commands.js`
 8) Run `node .`
+
+# Credit
+Massive credit to [evenMoreCode](https://youtube.com/playlist?list=PLGR8P08gl389KuHZjU9QCZlIMioUAIKcl&si=8V5I4YXH5jQ-XO0G)
